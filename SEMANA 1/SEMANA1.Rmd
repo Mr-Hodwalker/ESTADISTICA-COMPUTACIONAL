@@ -1,0 +1,10 @@
+---
+title: "Semana1"
+output: html_document
+date: "2025-01-24"
+---
+
+```{r}
+
+```
+
